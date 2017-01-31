@@ -2,7 +2,7 @@
 """
 Created on Mon Jan 30 22:50:30 2017
 
-@author: donald
+@author: donal
 """
 
 import smtplib
